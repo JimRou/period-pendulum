@@ -2,7 +2,7 @@
 
 A common experiment in science education consists of setting a pendulum oscillating and measuring its half-period using an optical gate placed at its equilibrium position. In addition to providing a way to relate the period to the Earth's gravitational field, this experiment highlights one of the anharmonic effects of such an oscillator: the dependence of the period on the initial angle.
 
-The simulation reproduces this experiment virtually, taking air resistance into account through a damping coefficient \(\gamma\). The plotted curve corresponds to the theoretical trajectory for $\gamma = 0$.
+The simulation reproduces this experiment virtually, taking air resistance into account through a damping coefficient $\gamma$. The plotted curve corresponds to the theoretical trajectory for $\gamma = 0$.
 
 
 https://github.com/user-attachments/assets/c4fa39d9-f223-413a-b124-b044758f00f2
